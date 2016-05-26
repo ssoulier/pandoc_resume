@@ -1,100 +1,81 @@
-Johnny Coder
+Stéphane Soulier
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Passionate Senior Data Scientist, I like making simple thing with a strong impact.\
+I really like coding and focusing on creating value  
 
 ----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2014-Today
+: **Head of Data Science Axa Global P&C**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    In charge of a team of 6 data scientist, we focus on pricing and claims analytics:
 
-* First item
+    * Apply Machine learning techniques and use new external data for improving pricing quality (Zoning, Commercial premium, ... ) or claims process (Fraud, Cost normalization, Orientation)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    * Create code Framework (especially in R) and markdown documentation for promoting and facilitating the deployment of projects in other Axa Entities. We create an Open-Source culture across the Axa group that avoid re-invent the wheel
 
-**That Other Job You Had**
+    * Animate a community of around 500 actuaries for helping them embracing the 2 hard skills of the data science __Code__ and __Machine Learning__. We organize and animate Monthly Webinar, bi-annual event like Hackathon, Data Science Training, Meet-up seminar, ...
 
-Also with a short description.
+2013-2014
+: **Senior Data Scientist and Data Science Manager**
 
-Technical Experience
+    As the first Senior Data Scientist of Quantmetry, I am leading many missions (Insurance, telco, bank, ...) from sales process to the final delivery.
+    I am also in charge of all the data scientist recruitment (we hired around 1 data scientist per month).
+
+2007-2013
+: **Algorithmic Trader at ABC Arbitrage**
+
+    Working mainly on Futures market (Index, Gold, WTI/Brent, US10 and some commodities), I am in charge of improving/finding new strategies. We focus mainly on stat arbs with mean reversion. I am dealing on a daily basis with a large volume of full-tick data and I code everyday in R, python or C#. I developed strong technical skills. Always in the trading desk, I am also in charge to look after of the trading robot.
+
+Education
+---------
+
+2005-2008
+:   **Master Actuary**; ISUP University Paris 6 (Paris)
+
+    *Coding C and R, Statistics, Actuarial Science, Insurance Business*
+
+2003-2005
+:   **Math "classe préparatoire" for engineering school**; Lycée Camille Guerin (Poitiers)
+
+    *Math, Physics and computer science*
+
+Others
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Entrepreneurship
+:   Founder of a prop trading company
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Develop all the backtesting and the daily production tools in __python__. [macrocharts.tumblr.com/archive](http://macrocharts.tumblr.com/archive)
+    * Create (for fun) a trading game with __Shiny__ [ssoulier.shinyapps.io/tradinggame/](https://ssoulier.shinyapps.io/tradinggame/)
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **R:** It's probably my well known language. Used almost everyday since 2007. I like data.table and gbm packages. Leaflet, shiny and highcharter for example are also amazing.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **python:** I really like this language and this syntax. I am not a pandas/scikit-learn expert but I am totally fluent for classical python code. My favorite ide is PyCharm.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Book
+:   **Data Science at the command line:** I really like this book and the idea of using more the terminal. I am not yet totally fluent but I always want to improve the command line skills.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+MOOC
+:   **Mining Massive Dataset (Coursera):** I enjoyed a lot this MOOC. I discovered many new concepts and appreciated all the smart tricks for dealing with large dataset.
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Human Languages
+:   **French** native speaker
+:   **English** full professional proficiency
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Hobbies
+:    Ride my bike, kaggle, codingame, rowing, good food
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <stephane@soolier.com> • +33 (0)6 24 64 79 67 • Married 2 children\
+> 32 allée Molière - 92 700 Colombes, France\
+> [fr.linkedin.com/in/ssoulier](https://fr.linkedin.com/in/ssoulier) - [github.com/ssoulier](https://github.com/ssoulier) - [www.kaggle.com/ssoulier](https://www.kaggle.com/ssoulier)
